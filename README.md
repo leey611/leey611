@@ -3,8 +3,7 @@ I like making [playful web-based experience](https://yuyuy.cargo.site/), && [dra
 \
 I hang out at [SpOnAct!](https://www.youtube.com/@Hi.SpOnAcT/streams), with whom I spoke about Taiwanese Queer Map in [GDG Taipei 2023](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2023/), co-hosted [Processing Community Day Taiwan 2023](https://www.youtube.com/playlist?list=PLaQjHexP0AoYBnqQLZhqW9q-l-lFe2Sy7), and made the official site for [Taiwan Film Festival Berlin 2023](https://taiwanfilmfestivalberlin.de/).\
 \
-I am a contributor at [@p5videoKit](https://github.com/p5videoKit).
-\
+I am a contributor [@p5videoKit](https://github.com/p5videoKit).
 ```
    _______       _______       _______
  /         \   /         \   /         \
